@@ -6,9 +6,9 @@ Bienvenue sur mon portfolio professionnel.
 Vous trouverez ici une présentation de mon parcours, mes expériences, ainsi que mes projets en lien avec le commerce, la logistique et le développement de solutions business.  
 
 ---
-
 ## 📄 Mon CV
-👉 [Télécharger mon CV (PDF)](https://raw.githubusercontent.com/Organiah/portfolio-pro/main/CV_CHRISTOPHE_BLONDEAU.pdf)
+👉 [Télécharger mon CV (PDF)](https://raw.githubusercontent.com/Organiah/portfolio-pro/main/CV%20DE%20CHRISTOPHE%20BLONDEAU.pdf)
+
 
 ---
 
