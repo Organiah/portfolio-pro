@@ -6,9 +6,9 @@ Bienvenue sur mon portfolio professionnel.
 Vous trouverez ici une présentation de mon parcours, mes expériences, ainsi que mes projets en lien avec le commerce, la logistique et le développement de solutions business.
 
 ---
-
 ## 📄 Mon CV  
 👉 [Télécharger mon CV (PDF)](./CV_CHRISTOPHE_BLONDEAU.pdf)
+
   ← (ajoute ton fichier CV après l’étape 3)
 
 ---
