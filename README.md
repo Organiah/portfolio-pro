@@ -7,7 +7,7 @@ Vous trouverez ici une présentation de mon parcours, mes expériences, ainsi qu
 
 ---
 ## 📄 Mon CV
-👉 [Télécharger mon CV (PDF)](https://raw.githubusercontent.com/Organiah/portfolio-pro/main/CV%20DE%20CHRISTOPHE%20BLONDEAU.pdf)
+👉 [Télécharger mon CV (PDF)](https://raw.githubusercontent.com/Organiah/portfolio-pro/main/cvchristopheblondeau.pdf)
 
 
 ---
