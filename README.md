@@ -7,8 +7,9 @@ Vous trouverez ici une présentation de mon parcours, mes expériences, ainsi qu
 
 ---
 
-## 📄 Mon CV
-- [Télécharger mon CV (PDF)](CV_CHRISTOPHE_BLONDEAU.pdf)  ← (ajoute ton fichier CV après l’étape 3)
+## 📄 Mon CV  
+👉 [Télécharger mon CV (PDF)](./CV_CHRISTOPHE_BLONDEAU.pdf)
+  ← (ajoute ton fichier CV après l’étape 3)
 
 ---
 
